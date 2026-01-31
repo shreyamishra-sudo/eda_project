@@ -66,4 +66,3 @@ pip install pandas numpy matplotlib seaborn
 
 This analysis provides a comprehensive overview of customer behavior and sales performance using exploratory data analysis techniques.  
 Future work may include building interactive dashboards, performing deeper statistical analysis, or extending the project with predictive modeling.
-
